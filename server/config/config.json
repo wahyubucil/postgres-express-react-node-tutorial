@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "wahyubucil",
+    "password": null,
+    "database": "todos-dev",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "wahyubucil",
+    "password": null,
+    "database": "todos_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "wahyubucil",
+    "password": null,
+    "database": "todos_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}

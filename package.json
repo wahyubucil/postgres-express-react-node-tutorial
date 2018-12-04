@@ -1,0 +1,22 @@
+{
+  "name": "postgres-express-react-node-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:wahyubucil/postgres-express-react-node-tutorial.git",
+  "author": "Wahyu Budi Saputra <wahyubucil@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start:dev": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1",
+    "pg": "^7.7.1",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.41.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.7"
+  }
+}
